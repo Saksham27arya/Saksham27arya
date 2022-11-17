@@ -65,7 +65,7 @@ I'm a Computer Science Student 😊.
 <a href="sakshamarya2001nagal@gmail.com" target="_blank">
   <img align="left" alt="Saksham's Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href=#><img src="https://github.com/rahulsingh7105/Saksham27arya/blob/main/contributions.svg"></a>
+<a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
   Visitor count<br>
