@@ -12,6 +12,7 @@ I'm a Computer Science Student 😊.
 ### Languages and Tools  
 
 <code><img height="30" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/html-logo.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/python.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/c-programming.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/kotlin.png"/></code> 
