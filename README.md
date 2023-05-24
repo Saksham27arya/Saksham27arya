@@ -25,7 +25,6 @@ I'm a Computer Science Student 😊.
 👍 AI / ML  
 👍 Software Development  
 👍 Web Development
-
 👍 Android Development
 
 
