@@ -9,6 +9,8 @@ I'm a Computer Science Student 😊.
 
 <img alt="GIF" src="img.gif?raw=true" width="500"/>  
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Saksham27arya&label=Profile%20views&color=32CD32&style=flat" alt="Saksham27arya" /> </p>
+
 ### Languages and Tools  
 
 <code><img height="30" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
