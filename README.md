@@ -20,6 +20,8 @@ I'm a Computer Science Student 😊.
 <code><img height="30" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></code>
 <code><img height="30" src="https://img.icons8.com/fluent/48/000000/android-os.png"/></code>
 <code><img height="30" src="https://img.icons8.com/fluent/48/000000/github.png"/></code>
+<code><img height="30" src="https://img.icons8.com/fluent/48/000000/html.png"/></code>
+
 
 ![th](https://github.com/neetcode-gh/leetcode/assets/112107653/b6c4c31e-f24b-4263-aa20-0f43536680ec)
 
