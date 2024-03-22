@@ -16,9 +16,9 @@ I'm a Computer Science Student 😊.
 <code><img height="30" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/python.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/c-programming.png"/></code>
-/*<code><img height="30" src="https://img.icons8.com/color/48/000000/kotlin.png"/></code>/* 
+<!--<code><img height="30" src="https://img.icons8.com/color/48/000000/kotlin.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></code>
-<code><img height="30" src="https://img.icons8.com/fluent/48/000000/android-os.png"/></code>*/
+<code><img height="30" src="https://img.icons8.com/fluent/48/000000/android-os.png"/></code>-->
 <code><img height="30" src="https://img.icons8.com/fluent/48/000000/github.png"/></code>
 <code><img height="30" src="https://img.icons8.com/fluent/48/000000/html-5.png"/></code>
 <code><img height="30" src="https://img.icons8.com/fluent/48/000000/css3.png"/></code>
@@ -27,7 +27,6 @@ I'm a Computer Science Student 😊.
 
 ### Interests
 👍 Cyber Security                            
-👍 App Development  
 👍 AI / ML  
 👍 Software Development  
 👍 Web Development                                                                             
@@ -41,10 +40,14 @@ I'm a Computer Science Student 😊.
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Saksham27arya&theme=dracula&column=7&margin-w=15&margin-h=15)
 
-### CP Profiles
- CodeChef       https://www.codechef.com/users/  
+### CP Profiles  
+ HackerRank     https://www.hackerrank.com/profile/sakshamarya20011  
+
  
+ LeetCode       https://leetcode.com/Saksham27arya/
+
  
+ CodeChef       https://www.codechef.com/users/
 
 ## 📊 Github stats
 
