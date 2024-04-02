@@ -41,7 +41,9 @@ I'm a Computer Science Student 😊.
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Saksham27arya&theme=dracula&column=7&margin-w=15&margin-h=15)
 
 ### CP Profiles  
- TryHack Me    <script src="https://tryhackme.com/badge/2507795"></script>
+ TryHackMe      https://tryhackme.com/p/SakshamArya27
+
+   
  HackerRank     https://www.hackerrank.com/profile/sakshamarya20011  
 
  
