@@ -41,13 +41,14 @@ I'm a Computer Science Student 😊.
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Saksham27arya&theme=dracula&column=7&margin-w=15&margin-h=15)
 
 ### CP Profiles  
+ TryHack Me    <script src="https://tryhackme.com/badge/2507795"></script>
  HackerRank     https://www.hackerrank.com/profile/sakshamarya20011  
 
  
  LeetCode       https://leetcode.com/Saksham27arya/
 
  
- CodeChef       https://www.codechef.com/users/
+ CodeChef       https://www.codechef.com/users/sakshamarya200
 
 ## 📊 Github stats
 
