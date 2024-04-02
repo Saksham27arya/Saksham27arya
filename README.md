@@ -45,13 +45,13 @@ I'm a Computer Science Student 😊.
 
 ## 📊 Github stats
 
-<!-- <details>  -->
-<!--   <summary>💻 GitHub Profile Stats</summary> -->
+ <details>  
+   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a><img alt="Saksham's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Saksham27arya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
   <a><img alt="Saksham's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Saksham27arya&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
   <br/>
-<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
+
 <!-- </details> -->
 
 <a><img alt="Saksham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Saksham27arya&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>  
