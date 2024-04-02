@@ -7,7 +7,7 @@ I'm a Computer Science Student 😊.
 💻 Worked on many different technologies.  
 📜 Created many useful Scripts for students like File Downloader and Handler, Deep Search, Automation Scripts, etc.  
 
-<img alt="GIF" src="img.gif?raw=true" width="500"/>  
+<img alt="GIF" src="img.gif?raw=true" width="500"/>  ![download](https://github.com/ShishirPatil/gorilla/assets/120323872/54cb0c88-ee83-4f06-b92c-2e69b89b83d2)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Saksham27arya&label=Profile%20views&color=32CD32&style=flat" alt="Saksham27arya" /> </p>
 
@@ -32,7 +32,7 @@ I'm a Computer Science Student 😊.
 👍 Web Development                                                                             
 👍 Android Development
 
-![download](https://github.com/ShishirPatil/gorilla/assets/120323872/54cb0c88-ee83-4f06-b92c-2e69b89b83d2)
+
 ### Awards 
 ✨ 
 
