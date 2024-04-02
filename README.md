@@ -7,11 +7,11 @@ I'm a Computer Science Student 😊.
 💻 Worked on many different technologies.  
 📜 Created many useful Scripts for students like File Downloader and Handler, Deep Search, Automation Scripts, etc.  
 
-<img alt="GIF" src="img.gif?raw=true" width="500"/>  ![download](https://github.com/ShishirPatil/gorilla/assets/120323872/54cb0c88-ee83-4f06-b92c-2e69b89b83d2)
+<img alt="GIF" src="img.gif?raw=true" width="500"/>       ![download](https://github.com/ShishirPatil/gorilla/assets/120323872/54cb0c88-ee83-4f06-b92c-2e69b89b83d2)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Saksham27arya&label=Profile%20views&color=32CD32&style=flat" alt="Saksham27arya" /> </p>
 
-### Languages and Tools  
+### `💻 Languages and Tools`  <img  alt="Coding" width="35" src="https://user-images.githubusercontent.com/71630336/167283646-f631f134-0457-4760-a2e8-5801d4c6a915.gif">:  
 
 <code><img height="30" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/python.png"/></code>
@@ -30,27 +30,18 @@ I'm a Computer Science Student 😊.
 👍 AI / ML  
 👍 Software Development  
 👍 Web Development                                                                             
-👍 Android Development
+
 
 
 ### Awards 
-✨ 
+✨ 1st Rank at Hackathon (College Event) 2022
 
 ### **Highlights**
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Saksham27arya&theme=dracula&column=7&margin-w=15&margin-h=15)
 
 ### CP Profiles  
- TryHackMe      https://tryhackme.com/p/SakshamArya27
-
-   
- HackerRank     https://www.hackerrank.com/profile/sakshamarya20011  
-
- 
- LeetCode       https://leetcode.com/Saksham27arya/
-
- 
- CodeChef       https://www.codechef.com/users/sakshamarya200
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-red?style=cloud&amp;labelColor=black&amp;logo=TryHackMe&amp;logoColor=red)](https://tryhackme.com/p/SakshamArya27)        [![PortSwigger](https://img.shields.io/badge/-PortSwigger-orange?style=flat&amp;labelColor=white&amp;logo=PortSwigger&amp;logoColor=orange)](https://portswigger.net/web-security/dashboard)        [![HackerRank](https://img.shields.io/badge/-HackerRank-darkgreen?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=darkgreen)](https://www.hackerrank.com/profile/sakshamarya20011)        [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/Saksham27arya/)        [![CodeChef](https://img.shields.io/badge/-CodeChef-brown?style=flat&amp;labelColor=white&amp;logo=CodeChef&amp;logoColor=brown)](https://www.codechef.com/users/sakshamarya200)
 
 ## 📊 Github stats
 
