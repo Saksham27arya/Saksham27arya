@@ -32,7 +32,7 @@ I'm a Computer Science Student 😊.
 👍 Web Development                                                                             
 👍 Android Development
 
-
+![download](https://github.com/ShishirPatil/gorilla/assets/120323872/54cb0c88-ee83-4f06-b92c-2e69b89b83d2)
 ### Awards 
 ✨ 
 
