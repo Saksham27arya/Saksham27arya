@@ -56,6 +56,8 @@ I'm a Computer Science Student 😊.
 
 <a><img alt="Saksham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Saksham27arya&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>  
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham27arya" alt="prity's github stats" /></a>
+
 ### Connect With Me
 <a href="https://www.linkedin.com/in/" target="_blank">
   <img align="left" alt="Saksham's LinkdeIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
