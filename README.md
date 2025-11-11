@@ -75,6 +75,8 @@ I'm a Computer Science Student 😊.
 
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/saksham27arya/count.svg" alt="count">
+  <img src="./count.svg" alt="count" />
 </p>
+
+
 
