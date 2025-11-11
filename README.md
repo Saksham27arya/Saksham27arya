@@ -73,7 +73,8 @@ I'm a Computer Science Student 😊.
 </a>
 <a href=#><img src="contributions.svg"></a>
 
-<p align="center"> 
+<p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Saksham27arya/count.svg" />
+  <img src="https://profile-counter.glitch.me/saksham27arya/count.svg" alt="count">
 </p>
+
