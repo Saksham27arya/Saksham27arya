@@ -68,7 +68,7 @@ I'm a **Computer Science & Engineering (AIML)** student at Shivalik College of E
 ## 🚀 Featured Projects
 
 
-### 🗑️ [Smart Waste Management System](https://github.com/Saksham27arya) 
+### 🗑️ [Smart Waste Management System](https://github.com/Saksham27arya/SWM) 
 **DST-Funded Project | 2024**
 - **Tech Stack:** HTML, CSS, JavaScript, React Native, Firebase, OpenCV
 - Developed IoT and ML-powered waste management system
