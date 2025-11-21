@@ -76,7 +76,7 @@ I'm a **Computer Science & Engineering (AIML)** student at Shivalik College of E
 - Leveraged cloud computing for real-time data processing and analytics
 
 
-### 👓 [EyesOnex - Smart Glasses for Visually Impaired](https://github.com/Saksham27arya)
+### 👓 [EyesOnex - Smart Glasses for Visually Impaired](https://github.com/Saksham27arya/EYESONEX)
 **DST-Funded Project | 2024**
 - **Tech Stack:** OpenCV, NumPy, Tesseract, SciPy, Pyttsx3, Speech Recognition, Wikipedia API
 - AI-based smart glasses with advanced image recognition
