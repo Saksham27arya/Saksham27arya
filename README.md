@@ -32,12 +32,12 @@
 ## 🎓 About Me
 
 
-I'm a **Computer Science & Engineering (AIML)** student at Shivalik College of Engineering, passionate about building innovative solutions that make a real impact. With a background in mechanical engineering and hands-on experience in machine learning, IoT, and web development, I love bridging the gap between technology and real-world problems.
+I'm a **Computer Science & Engineering (AIML)** student at Shivalik College of Engineering, passionate about building innovative solutions that make a real impact. With a background in mechanical engineering and hands-on experience in machine learning, IoT, and web penetration testing, I love bridging the gap between technology and real-world problems.
 
 
 - 🔭 Currently working on **AI-powered projects** and **Smart IoT Systems**
 - 🌱 Learning advanced **Machine Learning**, **Cyber Security**, and **Web Penetration Testing**
-- 💻 Expertise in **Python, TensorFlow, React, IoT, Computer Vision**
+- 💻 Expertise in **Python, TensorFlow, IoT, Computer Vision**
 - 📫 Reach me: **sakshamarya27042001@gmail.com** | **+91 7078894000**
 - ⚡ Fun fact: I pivoted from mechanical engineering to coding and never looked back!
 
