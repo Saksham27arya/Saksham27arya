@@ -126,21 +126,21 @@ I'm a **Computer Science & Engineering (AIML)** student at Shivalik College of E
 
 ## 📈 GitHub Analytics
 
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saksham27arya&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham27arya&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saksham27arya&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saksham27arya&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham27arya&theme=dracula" alt="Saksham27arya" />
+  <img src="https://git-hub-streak-stats.vercel.app?user=Saksham27arya&theme=dracula" alt="Saksham27arya" />
 </p>
 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Saksham27arya&theme=dracula&column=7&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
+
+
 
 
 ## 🔗 Competitive Programming Profiles
